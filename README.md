@@ -1,4 +1,4 @@
-# 📂 BMI Calculator App
+# 📂 BMI Calculator 
 
 This repository contains a **BMI (Body Mass Index) Calculator application** built using Java and XML in Android Studio. The app allows users to calculate their BMI based on height and weight inputs.
 
