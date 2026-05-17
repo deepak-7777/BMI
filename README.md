@@ -10,7 +10,7 @@ The purpose of this project is to practice Android app development by implementi
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 * BMI calculation using height & weight
 * Instant result display
