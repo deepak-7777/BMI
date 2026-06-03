@@ -11,7 +11,7 @@ The purpose of this project is to practice Android app development by implementi
 ---
 
 ## 🚀 Features 
-
+ 
 * BMI calculation using height & weight
 * Instant result display
 * BMI category indication (Underweight, Normal, Overweight, etc.)
