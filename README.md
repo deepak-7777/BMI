@@ -8,7 +8,7 @@ This repository contains a **BMI (Body Mass Index) Calculator application** buil
   
 The purpose of this project is to practice Android app development by implementing health-related calculations and user input handling.
  
----
+--- 
 
 ## 🚀 Features 
  
